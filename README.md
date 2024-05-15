@@ -9,7 +9,7 @@ Logged in users complete a questionnaire for which their responses are stored on
 Users can either create or join classes via class codes. 
 
 	- If you create a class, you are the instructor and have the option to do grouping, naming, and code creation. 
-		- As the instructor for a given class, you choose when to split the students into groups via matchmaking, and in which sizes, such as pairs or trios. 
+	- As the instructor for a given class, you choose when to split the students into groups via matchmaking, and in which sizes, such as pairs or trios. 
 	- otherwise, you join a class via a classes code, such as 'cse131fall2023'
 
 Upon joining a class, or upon being assigned to a matchmaking group, users will join respective group chats. 
