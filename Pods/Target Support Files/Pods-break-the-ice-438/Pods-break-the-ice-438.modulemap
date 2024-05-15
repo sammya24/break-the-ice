@@ -1,0 +1,6 @@
+framework module Pods_break_the_ice_438 {
+  umbrella header "Pods-break-the-ice-438-umbrella.h"
+
+  export *
+  module * { export * }
+}
